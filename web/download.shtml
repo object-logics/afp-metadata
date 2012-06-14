@@ -1,0 +1,65 @@
+<!DOCTYPE public "-//w3c//dtd html 4.01 transitional//en"
+		"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Archive of Formal Proofs</title>
+<link rel="stylesheet" type="text/css" href="front.css">
+<link rel="icon" href="images/favicon.ico" type="image/icon">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body>
+
+<table width="100%">
+<tbody>
+	<tr>
+	<td width="20%" align="center" valign="top">
+  <!-- navigation -->
+  <!--#include file="nav.html"-->
+	</td>
+	<td width="80%" valign="top">
+	<!-- content -->
+
+<div align="center">
+<p> </p>
+<h1><font class="first">D</font>ownload the
+	<font class="first">A</font>rchive</h1>
+<p> </p>
+<!--#config timefmt="%Y-%m-%d" -->
+<table width="80%" class="descr">
+<tbody>
+	<tr><td class="head"><b>Current stable version</b> (for current Isabelle
+	release):</td></tr>
+		<tr></tr><td class="entry">  
+      <!--#flastmod file="release/afp-current.tar.gz" -->:  
+      <a
+			href="release/afp-current.tar.gz"><tt>afp-current.tar.gz</tt></a>
+      [<!--#fsize file="release/afp-current.tar.gz" -->]
+    </td></tr>
+
+		<tr><td class="head">Older stable versions:</td></tr>
+		<tr><td class="entry">Please use the <a
+	href="http://sourceforge.net/project/showfiles.php?group_id=101909">sourceforge
+	download system</a> to access older versions of the archive.</td></tr>
+
+	<tr><td class="head">Development snapshot (for development snapshot
+	of Isabelle):</td></tr>
+
+	<tr><td class="entry">
+      <!--#flastmod file="release/afp-devel.tar.gz" -->:
+      <a href="release/afp-devel.tar.gz"><tt>afp-devel.tar.gz</tt></a>     
+      [<!--#fsize file="release/afp-devel.tar.gz" -->]
+
+      [<a href="status.shtml">entry status</a>]
+  </td></tr></tr>
+
+	<tr><td class="head">Mercurial access:</td></tr>	
+
+	<tr><td class="entry">Please refer to 
+	the <a href="http://sourceforge.net/projects/afp/develop">description</a>
+	on sourceforge. You can also <a 
+	href="http://afp.hg.sourceforge.net/hgweb/afp/afp/">browse</a> the
+	development repository online.</td></tr>
+
+	</tbody></table></td> </tr> </table>
+</body>
+</html>

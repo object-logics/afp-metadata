@@ -1,0 +1,77 @@
+<!DOCTYPE public "-//w3c//dtd html 4.01 transitional//en"
+		"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Archive of Formal Proofs</title>
+  <link rel="stylesheet" type="text/css" href="front.css">
+  <link rel="icon" href="images/favicon.ico" type="image/icon">
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body>
+
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="20%" align="center" valign="top">
+  <!-- navigation -->
+  <!--#include file="nav.html"-->
+      </td>
+      <td width="80%" valign="top">
+      <!-- content -->
+
+<div align="center">
+<p> </p>
+<h1><font class="first">S</font>ubmission
+    <font class="first">G</font>uidelines</h1>
+<p> </p>
+
+<table width="80%" class="descr">
+  <tbody>
+    <tr><td>
+    <p>Please send your submissions by email to <a
+href="&#109;&#97;&#105;&#108;&#116;&#111;:&#97;&#102;&#112;-&#115;&#117;&#98;&#109;&#105;&#116;&#64;&#105;&#110;&#46;&#116;&#117;&#109;&#46;&#100;&#101;">&#97;&#102;&#112;-&#115;&#117;&#98;&#109;&#105;&#116;&#64;&#105;&#110;&#46;&#116;&#117;&#109;&#46;&#100;&#101;</a>.
+    </p>
+
+    <p>The submission should contain</p>
+    <ul>
+    <li>Title, authors and abstract in plain text.</li>
+    <li>A short name. It will become the directory name of the archive
+    entry.</li>
+    <li>Name/contact of the maintainer of the entry (usually the author).</li>
+    <li>URL or email address of authors to display on the web page.</li>
+    <li>The topic(s) the entry should be listed under in <a href="topics.shtml">the index</a>.</li>
+    <li>A tar file with the theory files, IsaMakefile, ROOT.ML and
+        document directory. The theories should work with the current
+        release of <a href="http://isabelle.in.tum.de/">Isabelle</a>.
+    <li>A notice whether you license your submission under BSD 
+        or LGPL if accepted.</li>
+    </ul>
+
+    <p>There is a <a href="submit-template">submission template</a>
+    available and an
+     <a href="entries/Example-Submission.shtml">example submission</a>
+    that contains further information.</p>
+
+    <p>It is possible and encouraged to build on other archive entries
+       in your submission.</p>
+
+    <p>Your submission will be refereed and you will receive notification
+    as soon as possible. If accepted, you must agree to maintain your
+    archive entry or nominate someone else to maintain it. The Isabelle
+    development team will assist with maintenance, but it does not have the
+    resources to fully maintain the complete archive.</p>
+
+    <p>If you have questions regarding your submission please contact the <a
+       href="about.shtml#editors">editors</a>.
+      If you need help with Isabelle, please use the
+<a href="mailto:isabelle-users@cl.cam.ac.uk">isabelle-users@cl.cam.ac.uk</a>
+      mailing list. It is always a good idea to <a
+      href="https://lists.cam.ac.uk/mailman/listinfo/cl-isabelle-users">subscribe</a>.</p>
+</td></tr>
+
+</tbody>
+</table>
+
+</td> </tr> </table>
+</body>
+</html>
