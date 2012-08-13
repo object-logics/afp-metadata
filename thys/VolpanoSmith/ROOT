@@ -1,8 +1,0 @@
-session VolpanoSmith (AFP) = HOL +
-  options [timeout = 2000]
-  theories
-    secTypes
-    Execute
-  files
-    "document/root.bib"
-    "document/root.tex"

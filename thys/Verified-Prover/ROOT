@@ -1,9 +1,0 @@
-session "Verified-Prover" (AFP) = HOL +
-  options [timeout = 3600]
-  theories [document = false]
-    "~~/src/HOL/Library/Infinite_Set"
-  theories
-    Prover
-  files
-    "document/root.bib"
-    "document/root.tex"
